@@ -122,6 +122,73 @@
     </div>
     <!-- Fin -->
 
+    <!-- Computo III -->
+    <div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container py-5">
+            <div class="section-title text-center position-relative pb-3 mb-5 mx-auto" style="max-width: 600px;">
+                <h5 class="fw-bold text-primary text-uppercase">Tareas del tercer computo</h5>
+                <h1 class="mb-0">Tecnologías de servidor web: NodeJS, Express, Socket.io</h1>
+            </div>
+            <div class="row g-5">
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <h4 class="mb-3">Semana 14</h4>
+                        <p class="m-0">Guía propuesta: Introducción a  NodeJs.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="https://github.com/AmilcarLopezSMIS935820/semana13" target="_blank">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <h4 class="mb-3">Semana 15</h4>
+                        <p class="m-0">50% Laboratorio I: Asincronismo con NodeJs.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="https://github.com/AmilcarLopezSMIS935820/semana14" target="_blank">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.9s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <h4 class="mb-3">Semana 16</h4>
+                        <p class="m-0">50% Laboratorio I: Modulos nativos en NodeJs.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="https://github.com/AmilcarLopezSMIS935820/semana15" target="_blank">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.3s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <h4 class="mb-3">Semana 17</h4>
+                        <p class="m-0">Evaluación formativa: Introducción a Express</p>
+                        <a class="btn btn-lg btn-primary rounded" href="https://github.com/AmilcarLopezSMIS935820/Semana18" target="_blank">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <h4 class="mb-3">Semana 18</h4>
+                        <p class="m-0">70% Laboratorio II: Base de datos con NodeJs y MongoDB.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="https://github.com/AmilcarLopezSMIS935820/Semana18" target="_blank">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 wow zoomIn" data-wow-delay="0.6s">
+                    <div class="service-item bg-light rounded d-flex flex-column align-items-center justify-content-center text-center">
+                        <h4 class="mb-3">Semana 19</h4>
+                        <p class="m-0">30% Laboratorio II: Portafolio + Practica Semana 19.</p>
+                        <a class="btn btn-lg btn-primary rounded" href="https://github.com/AmilcarLopezSMIS935820/Semana19" target="_blank">
+                            <i class="bi bi-arrow-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Fin -->
+
     @include('footer')
 </body>
 </html>

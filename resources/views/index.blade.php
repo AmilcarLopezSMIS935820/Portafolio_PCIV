@@ -36,7 +36,15 @@
                         <div class="p-3" style="max-width: 900px;">
                             <h5 class="text-primary text-uppercase mb-3 animated slideInDown">SEGUNDO COMPUTO</h5>
                             <h1 class="display-1 text-white mb-md-4 animated zoomIn">Desarrollo Backend: PHP & Laravel</h1>
-                            
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img class="w-100" src="img/w12.jpg" alt="Image">
+                    <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
+                        <div class="p-3" style="max-width: 900px;">
+                            <h5 class="text-primary text-uppercase mb-3 animated slideInDown">TERCER COMPUTO</h5>
+                            <h1 class="display-1 text-white mb-md-4 animated zoomIn">Tecnologías de servidor web: NodeJS</h1>
                         </div>
                     </div>
                 </div>
@@ -96,7 +104,24 @@
                             sitio funcione correctamente, que la información se transmita de manera segura y 
                             que el desempeño de la aplicación no entorpezca la experiencia del usuario, siendo 
                             así que el Backend es la parte que corre del lado del servidor.</p>
-                            <br>
+                        <p>Para este tercer computo hemos conocido la importancia de las tecnologías para los servidores 
+                            web, siendo más específico, hemos podido conocer NodeJs el cual es un ambiente de desarrollo 
+                            que va de la mano con JavaScript… También y como parte de nuestra formación académica, comprendidos 
+                            la importancia de implementar NodeJs en nuestros proyectos y es que este nos permite utilizar JavaScript 
+                            para desarrollar código del lado del servidor, consiguiendo de esta forma un tipo de contenido más 
+                            dinámico en nuestras páginas web.<br>
+                            Ahora bien, lo que me quedo de aprendizaje al utilizar NodeJs es que pude entender que 
+                            básicamente trata de unificar el desarrollo de aplicaciones web con un único lenguaje de 
+                            programación que intenta abarcar tanto fronted como backend, en lugar de que estos conceptos 
+                            se tomen por separado y se utilicen diferentes lenguajes para las distintas funciones y eventos 
+                            programables que existen del lado del servidor y del lado del cliente.<br>
+                            En la parte técnica de este ambiente, puedo decir que nos ofrece un acercamiento al desarrollo 
+                            de código que podría estar orientado a la elaboración de eventos asíncronos y la construcción de 
+                            aplicaciones en red que sean escalables. También y como parte de NodeJs nos podremos dar cuenta que 
+                            es Open-Source y multiplataforma, además de que es un elemento muy eficiente que nos ayudaría 
+                            mucho al implementarlo en nuestros proyectos de desarrollo de aplicativos web.
+
+                        </p><br>
                 </div>
         </div>
     <hr>

@@ -39,6 +39,12 @@
                             fundamental en cualquier proyecto que desarrollemos, ya que, para desarrollar un proyecto 
                             de software se necesitan personas con capacidad creativa y personas con muy buena lógica 
                             para resolver problemas.  </p>
+                        <p>En cuanto a este tercer computo y como parte de nuestra formación en el ambiente de NodeJs, 
+                            pudimos comprender nueva terminología orientada a la programación asincrónica, la cual es 
+                            un estilo de estructurar un programa mediante el cual una llamada a un elemento con alguna 
+                            funcionalidad desencadena una acción que puede continuar fuera del flujo continuo del 
+                            programa mismo.
+                        </p>
                 </div>
         </div>
     </div>
